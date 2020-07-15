@@ -77,7 +77,7 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 #### Repos used to populate Readable Tests
 
 | Section                        | Learning Module Name      | Git Repo Address                                                                              |
-| ------------------------------ | --------------------------| --------------------------------------------------------------------------------------------- |
+| ------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------- |
 | 05 - Readable Tests            | Readable Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
 | 05 - Readable Tests Code Files | Readable Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
 
@@ -98,8 +98,8 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 ### 7. Test Patterns - TODO
 
-| Section                         | Learning Module Name | Git Repo Address                                                                          |
-| ------------------------------- | -------------------- | ----------------------------------------------------------------------------------------- |
+| Section               | Learning Module Name | Git Repo Address                                                                         |
+| --------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
 
 ### 8. Speed of Builds (Slow Tests)
@@ -121,23 +121,33 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Where Doubles fits in
 
-This sections covers **Learning Outcome 1.6 Doubles** in the *icAgile Programming* specification.
+This sections covers **Learning Outcome 1.6 Test Doubles** in the *icAgile Programming* specification.
 
 It is part of the major **Learning Outcome 1 Automated Tests**.
 
-#### Repos used to populate Doubles
+#### Repos used to populate Test Doubles
 
 | Section                      | Learning Module Name    | Git Repo Address                                                                                |
-| -----------------------------| ----------------------- | ----------------------------------------------------------------------------------------------- |
+| ---------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
 | 09 - Test Doubles            | Test Doubles            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git         |
 | 09 - Test Doubles Code Files | Test Doubles Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles-code-files.git |
 
 ### 10. Refactoring With Existing Tests
 
-| Section                                         | Learning Module Name                       | Git Repo Address                                                                                                            |
-| ----------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| 10 - Refactoring With Existing Tests            | Refactoring With Existing Tests            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git |
+#### Where Refactoring With Existing Tests fits in
+
+This sections covers **Learning Outcome 2.2 Refactoring With Existing Tests** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 2 Refactoring**.
+
+#### Repos used to populate Refactoring With Existing Tests
+
+| Section                                         | Learning Module Name                       | Git Repo Address                                                                                                                       |
+| ----------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 10 - Refactoring With Existing Tests            | Refactoring With Existing Tests            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git            |
 | 10 - Refactoring With Existing Tests Code Files | Refactoring With Existing Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git |
+
+## TODO
 
 ### 6. Testing Techniques
 
