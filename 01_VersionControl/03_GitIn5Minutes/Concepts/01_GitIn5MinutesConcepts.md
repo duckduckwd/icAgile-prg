@@ -69,7 +69,7 @@ To see configured remote repositories run the `git remote` command
 
 *shortname* becomes an alias for access to the repository
 
-### Pushing to a repo
+### Pushing to a repo
 
 When you have your project at a point you want to share you have to **push** it upstream
 
@@ -91,7 +91,7 @@ If you want to remove a reference for some reason — you’ve moved the server 
 
 `git remote origin`
 
-### Pulling a repo
+### Pulling a repo
 
 To pull all the changes made to the repository then we can use the `pull` command
 
@@ -107,7 +107,7 @@ It is good practice to pull the repository before pushing changes
 
 ## Git Branching
 
-![Git Branching](../../images/git5.png)
+![Git Branching](./images/git5.png)
 
 Branching allows you to diverge from the main line of development
 
