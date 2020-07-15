@@ -166,7 +166,7 @@ No current materials on Cloud Academy
 
 git subtree pull --prefix 01_VersionControl/01_WhatIsVersionControl https://gitlab.com/qa-software-engineering/learning-modules/version-control/what-is-version-control.git master --squash
 
-git subtree add --prefix 01_VersionControl/02_GitAsADVCS https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git master --squash
+git subtree pull --prefix 01_VersionControl/02_GitAsADVCS https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git master --squash
 
 git subtree pull --prefix 01_VersionControl/03_GitIn5Minutes https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-in-5-minutes.git master --squash
 
