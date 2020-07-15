@@ -164,17 +164,17 @@ No current materials on Cloud Academy
 
 ```zsh
 
-git subtree add --prefix 01_VersionControl/01_WhatIsVersionControl https://gitlab.com/qa-software-engineering/learning-modules/version-control/what-is-version-control.git master --squash
+git subtree pull --prefix 01_VersionControl/01_WhatIsVersionControl https://gitlab.com/qa-software-engineering/learning-modules/version-control/what-is-version-control.git master --squash
 
-git subtree pull --prefix 01_VersionControl/02_GitAsADVCS https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git master --squash
+git subtree add --prefix 01_VersionControl/02_GitAsADVCS https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git master --squash
 
 git subtree pull --prefix 01_VersionControl/03_GitIn5Minutes https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-in-5-minutes.git master --squash
 
 git subtree pull --prefix 02_PairProgramming https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git  master --squash
 
-git subtree pull --prefix 03_SoftwarePatterns/01_IntroductionToSoftwarePatterns https://gitlab.com/qa-software-engineering/learning-modules/software-design/patterns/introduction-to-software-patterns.git  master --squash
 
-git subtree pull --prefix 03_SoftwarePatterns/02_GangOfFour https://gitlab.com/qa-software-engineering/learning-modules/software-design/patterns/gang-of-four.git  master --squash
+
+
 
 git subtree pull --prefix 04_Testing/01_UnitTesting https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git master --squash
 
