@@ -19,6 +19,7 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 | 01 - Version Control | What is Version Control | https://gitlab.com/qa-software-engineering/learning-modules/version-control/what-is-version-control.git |
 |                      | Git as a DVCS           | https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git       |
 |                      | Git in 5 Minutes        | https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-in-5-minutes.git    |
+| CodeFiles Repo       | N/A                     | https://gitlab.com/qa-software-engineering/courses/public/icagile/qaicpprg_code_files.git               |
 
 ### 2. Pair Programming
 
@@ -30,10 +31,10 @@ It is part of the major **Learning Outcome 6 Collaborative Development**.
 
 #### Repos used to populate Pair Programming
 
-| Section                            | Learning Module Name | Git Repo Address                                                                                                                      |
-| ---------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 02 - Pair Programming              | Pair Programming     | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git                          |
-| 02 - Pair Programming Coding Files | Pair Programming     | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming-concrete-practice-code-files |
+| Section                            | Learning Module Name        | Git Repo Address                                                                                                                      |
+| ---------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 02 - Pair Programming              | Pair Programming            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git                          |
+| 02 - Pair Programming Coding Files | Pair Programming Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming-concrete-practice-code-files |
 
 ### 3. Build Tools
 
@@ -45,10 +46,10 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 
 #### Repos used to populate Build Tools
 
-| Section                       | Learning Module Name              | Git Repo Address                                                                            |
-| ----------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------- |
-| 03 - Build Tools              | Build Tools                       | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools            |
-| 03 - Build Tools Coding Files | Build Tools                       | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools-code-files |
+| Section                       | Learning Module Name   | Git Repo Address                                                                            |
+| ----------------------------- | ---------------------- | ------------------------------------------------------------------------------------------- |
+| 03 - Build Tools              | Build Tools            | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools            |
+| 03 - Build Tools Coding Files | Build Tools Code Files | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools-code-files |
 
 ### 4. Unit Testing
 
@@ -60,10 +61,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Unit Testing
 
-| Section                     | Learning Module Name | Git Repo Address                                                                            |
-| --------------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
-| 04 - Unit Testing           | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
-| 04 - Unit Tesing Code Files | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
+| Section                     | Learning Module Name    | Git Repo Address                                                                            |
+| --------------------------- | ----------------------- | ------------------------------------------------------------------------------------------- |
+| 04 - Unit Testing           | Unit Testing            | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
+| 04 - Unit Tesing Code Files | Unit Testing Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
 
 ### 5. Readable Tests
 
@@ -75,10 +76,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Readable Tests
 
-| Section                        | Learning Module Name | Git Repo Address                                                                              |
-| ------------------------------ | -------------------- | --------------------------------------------------------------------------------------------- |
-| 05 - Readable Tests            | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
-| 05 - Readable Tests Code Files | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
+| Section                        | Learning Module Name      | Git Repo Address                                                                              |
+| ------------------------------ | --------------------------| --------------------------------------------------------------------------------------------- |
+| 05 - Readable Tests            | Readable Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
+| 05 - Readable Tests Code Files | Readable Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
 
 ### 6. Code Coverage
 
@@ -95,6 +96,12 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | 06 - Code Coverage            | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git        |
 | 06 - Code Coverage Code Files | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files |
 
+### 7. Test Patterns - TODO
+
+| Section                         | Learning Module Name | Git Repo Address                                                                          |
+| ------------------------------- | -------------------- | ----------------------------------------------------------------------------------------- |
+| 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
+
 ### 8. Speed of Builds (Slow Tests)
 
 #### Where Speed of Builds fits in
@@ -105,14 +112,30 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Speed of Builds
 
-| Section                         | Learning Module Name | Git Repo Address                                                                          |
-| ------------------------------- | -------------------- | ----------------------------------------------------------------------------------------- |
-| 08 - Speed of Builds            | Slow Tests           | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests            |
-| 08 - Speed of Builds Code Files | Slow Tests           | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests-code-files |
+| Section                         | Learning Module Name  | Git Repo Address                                                                          |
+| ------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- |
+| 08 - Speed of Builds            | Slow Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests            |
+| 08 - Speed of Builds Code Files | Slow Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests-code-files |
+
+### 9. Test Doubles
+
+#### Where Doubles fits in
+
+This sections covers **Learning Outcome 1.6 Doubles** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Automated Tests**.
+
+#### Repos used to populate Doubles
+
+| Section                      | Learning Module Name    | Git Repo Address                                                                                |
+| -----------------------------| ----------------------- | ----------------------------------------------------------------------------------------------- |
+| 09 - Test Doubles            | Test Doubles            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git         |
+| 09 - Test Doubles Code Files | Test Doubles Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles-code-files.git |
 
 
-| 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
-| 05 - Test Doubles     | Test Doubles         | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git  |
+
+
+
 
 ### 5. Refactoring With Existing Tests
 
@@ -254,6 +277,8 @@ git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-enginee
 
 
 git subtree pull --prefix 08_SpeedOfBuilds https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests.git master --squash
+
+git subtree pull --prefix 09_TestDoubles https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles.git master --squash
 
 
 
