@@ -62,8 +62,8 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 | Section                     | Learning Module Name | Git Repo Address                                                                            |
 | --------------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
-| 01 - Unit Testing           | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
-| 01 - Unit Tesing Code Files | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
+| 04 - Unit Testing           | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
+| 04 - Unit Tesing Code Files | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
 
 ### 5. Readable Tests
 
@@ -77,8 +77,8 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 | Section                        | Learning Module Name | Git Repo Address                                                                              |
 | ------------------------------ | -------------------- | --------------------------------------------------------------------------------------------- |
-| 02 - Readable Tests            | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
-| 02 - Readable Tests Code Files | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
+| 05 - Readable Tests            | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
+| 05 - Readable Tests Code Files | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
 
 ### 6. Code Coverage
 
@@ -92,8 +92,23 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 | Section                       | Learning Module Name | Git Repo Address                                                                             |
 | ----------------------------- | -------------------- | -------------------------------------------------------------------------------------------- |
-| 03 - Code Coverage            | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git        |
-| 03 - Code Coverage Code Files | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files |
+| 06 - Code Coverage            | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git        |
+| 06 - Code Coverage Code Files | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files |
+
+### 8. Speed of Builds (Slow Tests)
+
+#### Where Speed of Builds fits in
+
+This sections covers **Learning Outcome 1.5 Speed of Builds** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Automated Tests**.
+
+#### Repos used to populate Speed of Builds
+
+| Section                         | Learning Module Name | Git Repo Address                                                                          |
+| ------------------------------- | -------------------- | ----------------------------------------------------------------------------------------- |
+| 08 - Speed of Builds            | Slow Tests           | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests            |
+| 08 - Speed of Builds Code Files | Slow Tests           | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests-code-files |
 
 
 | 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
@@ -235,6 +250,12 @@ git subtree pull --prefix 04_UnitTesting https://gitlab.com/qa-software-engineer
 git subtree pull --prefix 05__ReadableTests https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git master --squash
 
 git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
+
+
+
+git subtree pull --prefix 08_SpeedOfBuilds https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests.git master --squash
+
+
 
 git subtree pull --prefix 04_Testing/04_TestingPatterns https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git master --squash
 
