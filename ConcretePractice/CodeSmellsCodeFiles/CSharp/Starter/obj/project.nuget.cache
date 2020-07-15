@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "khfSYNa3Dwr6IZxuJYaulLFCqE1Aiq+79gHDERWSkMqII1hnQj5Q7tH6Lmu7L6vkFBEFETdtzWppg/ociuioeg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\chris\\MyDropbox\\Dropbox\\QA\\Courses\\QAICPPRG\\agile-programming\\csharp\\CodeSmells\\Starter\\BadLiskov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
