@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{88FFC6C3-8497-40A8-AB44-30EAC6297D83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CalculatorTests/CalculatorTestShared.cs">
+    <Files>
+      <File FileName="CalculatorTests/UnitTest1.cs" Line="7" Column="32" />
+      <File FileName="CalculatorTests/CalculatorTestShared.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTesting" expanded="True">
+            <Node name="CalculatorLib" expanded="True" />
+            <Node name="CalculatorTests" expanded="True">
+              <Node name="CalculatorTestShared.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UnitTesting" expanded="True" selected="True">
+            <Node name="CalculatorTests" expanded="True">
+              <Node name="CalculatorTests" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CalculatorTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
