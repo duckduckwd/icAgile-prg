@@ -14,17 +14,17 @@ Its goals were to create a DVCS system that was:
 
 ## Choosing a DVCS for Git
 
-### GitHub
+### GitHub
 
-![GitHub Splash Screen](./images/github_splash.png)
+![GitHub Splash Screen](./images/01_01_github_splash.png)
 
 ### BitBucket
 
-![BitBucket Splash Screen](./images/bitbucket_splash.png)
+![BitBucket Splash Screen](./images/01_02_bitbucket_splash.png)
 
 ### GitLabs
 
-![GitLabs Splash Screen](./images/gitlab_splash.png)
+![GitLabs Splash Screen](./images/01_03_gitlab_splash.png)
 
 When using git server or a hosting site, you might follow these steps:
 
