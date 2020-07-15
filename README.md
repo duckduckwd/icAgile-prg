@@ -151,7 +151,7 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 
 #### Where Test Driven Development fits in
 
-This sections covers **Learning Outcome 4,1 Test Driven Development** in the *icAgile Programming* specification.
+This sections covers **Learning Outcome 4.1 Test Driven Development** in the *icAgile Programming* specification.
 
 It is part of the major **Learning Outcome 1 Test Driven Development**.
 
@@ -160,7 +160,22 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 | Section             | Learning Module Name               | Git Repo Address                                                                                                   |
 | ------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 11 - TDD            | Test Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git |
-| 09 - TDD Code Files | Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git         |
+| 11 - TDD Code Files | Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git         |
+
+### 12. Behaviour Driven Development
+
+#### Where Behaviour Driven Development fits in
+
+This sections covers **Learning Outcome 4.2 Behaviour Driven Development** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Test Driven Development**.
+
+#### Repos used to populate Test Driven Development
+
+| Section             | Learning Module Name                    | Git Repo Address                                                                                                        |
+| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 12 - BDD            | Behaviour Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git |
+| 12 - TDD Code Files | Behaviour Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git              |
 
 ## TODO
 
@@ -326,5 +341,7 @@ git subtree pull --prefix 09_ContinuousIntegration/02_Jenkins https://gitlab.com
 git subtree pull --prefix 10_ContinuousDeliveryAndDeployment/ https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/continuous-delivery-continuous-deployment.git master --squash
 
 git subtree pull --prefix 11_TestDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git master --squash
+
+git subtree pull --prefix 12_BehaviourDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git master --squash
 
 ```
