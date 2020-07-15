@@ -80,9 +80,22 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | 02 - Readable Tests            | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
 | 02 - Readable Tests Code Files | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
 
+### 6. Code Coverage
+
+#### Where Code Coverage fits in
+
+This sections covers **Learning Outcome 1.3 Test Coverage** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Automated Tests**.
+
+#### Repos used to populate Code Coverage
+
+| Section                       | Learning Module Name | Git Repo Address                                                                             |
+| ----------------------------- | -------------------- | -------------------------------------------------------------------------------------------- |
+| 03 - Code Coverage            | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git        |
+| 03 - Code Coverage Code Files | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files |
 
 
-| 03 - Code Coverage    | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git    |
 | 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
 | 05 - Test Doubles     | Test Doubles         | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git  |
 
@@ -217,11 +230,11 @@ git subtree pull --prefix 02_PairProgramming https://gitlab.com/qa-software-engi
 
 git subtree pull --prefix 03_BuildTools https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools master --squash
 
-git subtree pull --prefix 04_Testing/01_UnitTesting https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git master --squash
+git subtree pull --prefix 04_UnitTesting https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git master --squash
 
-git subtree pull --prefix 04_Testing/02_ReadableTests https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git master --squash
+git subtree pull --prefix 05__ReadableTests https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git master --squash
 
-git subtree pull --prefix 04_Testing/03_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
+git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
 
 git subtree pull --prefix 04_Testing/04_TestingPatterns https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git master --squash
 
