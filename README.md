@@ -6,7 +6,7 @@ This repo has all materials for the delivery and creation of the accreditted icA
 
 ### 1. Version Control
 
-#### Where this fits in
+#### Where Version Control fits in
 
 This sections covers **Learning Outcome 7.1.2 Version Control** in the *icAgile Programming* specification.
 
@@ -22,16 +22,33 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 
 ### 2. Pair Programming
 
-| Section               | Learning Module Name | Git Repo Address                                                                                             |
-| --------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------ |
-| 02 - Pair Programming | Pair Programming     | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git |
+#### Where Pair Programming fits in
 
-### 3. Software Patterns
+This sections covers **Learning Outcome 6.2 Pair Programming** in the *icAgile Programming* specification.
 
-| Section                | Learning Module Name              | Git Repo Address                                                                                                           |
-| ---------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 03 - Software Patterns | Introduction to Software Patterns | https://gitlab.com/qa-software-engineering/learning-modules/software-design/patterns/introduction-to-software-patterns.git |
-|                        | Gang of Four                      | https://gitlab.com/qa-software-engineering/learning-modules/software-design/patterns/gang-of-four.git                      |
+It is part of the major **Learning Outcome 6 Collaborative Development**.
+
+#### Repos used to populate Pair Programming
+
+| Section                            | Learning Module Name | Git Repo Address                                                                                                                      |
+| ---------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 02 - Pair Programming              | Pair Programming     | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git                          |
+| 02 - Pair Programming Coding Files | Pair Programming     | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming-concrete-practice-code-files |
+
+### 3. Build Tools
+
+#### Where Build Tools fits in
+
+This sections covers **Learning Outcome 7.1.2 Version Control** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Build Tools and Version Control**.
+
+#### Repos used to populate Build Tools
+
+| Section                       | Learning Module Name              | Git Repo Address                                                                            |
+| ----------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------- |
+| 03 - Build Tools              | Build Tools                       | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools            |
+| 03 - Build Tools Coding Files | Build Tools                       | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools-code-files |
 
 ### 4. Unit Testing
 
@@ -172,9 +189,7 @@ git subtree pull --prefix 01_VersionControl/03_GitIn5Minutes https://gitlab.com/
 
 git subtree pull --prefix 02_PairProgramming https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git  master --squash
 
-
-
-
+git subtree pull --prefix 03_BuildTools https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools master --squash
 
 git subtree pull --prefix 04_Testing/01_UnitTesting https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git master --squash
 
