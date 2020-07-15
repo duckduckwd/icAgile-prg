@@ -1,0 +1,8 @@
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/obj/Debug/netstandard2.0/BadLiskov.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/obj/Debug/netstandard2.0/BadLiskov.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/obj/Debug/netstandard2.0/BadLiskov.AssemblyInfo.cs
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/bin/Debug/netstandard2.0/BadLiskov.deps.json
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/bin/Debug/netstandard2.0/BadLiskov.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/bin/Debug/netstandard2.0/BadLiskov.pdb
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/obj/Debug/netstandard2.0/BadLiskov.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/CodeSmells/Solid Exercise/badliskov/BadLiskov/obj/Debug/netstandard2.0/BadLiskov.pdb
