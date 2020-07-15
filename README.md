@@ -52,10 +52,36 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 
 ### 4. Unit Testing
 
-| Section               | Learning Module Name | Git Repo Address                                                                         |
-| --------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| 01 - Unit Testing     | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git     |
-| 02 - Readable Tests   | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git   |
+#### Where Unit Testing fits in
+
+This sections covers **Learning Outcome 1.1 Unit Testing** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Automated Tests**.
+
+#### Repos used to populate Unit Testing
+
+| Section                     | Learning Module Name | Git Repo Address                                                                            |
+| --------------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
+| 01 - Unit Testing           | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
+| 01 - Unit Tesing Code Files | Unit Testing         | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
+
+### 5. Readable Tests
+
+#### Where Readable Tests fits in
+
+This sections covers **Learning Outcome 1.2 Readable Tests** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Automated Tests**.
+
+#### Repos used to populate Readable Tests
+
+| Section                        | Learning Module Name | Git Repo Address                                                                              |
+| ------------------------------ | -------------------- | --------------------------------------------------------------------------------------------- |
+| 02 - Readable Tests            | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
+| 02 - Readable Tests Code Files | Readable Tests       | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
+
+
+
 | 03 - Code Coverage    | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git    |
 | 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
 | 05 - Test Doubles     | Test Doubles         | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git  |
