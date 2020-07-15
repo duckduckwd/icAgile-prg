@@ -132,16 +132,12 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | 09 - Test Doubles            | Test Doubles            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git         |
 | 09 - Test Doubles Code Files | Test Doubles Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles-code-files.git |
 
+### 10. Refactoring With Existing Tests
 
-
-
-
-
-### 5. Refactoring With Existing Tests
-
-| Section                              | Learning Module Name            | Git Repo Address                                                                                                            |
-| ------------------------------------ | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 01 - Refactoring With Existing Tests | Refactoring With Existing Tests | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git |
+| Section                                         | Learning Module Name                       | Git Repo Address                                                                                                            |
+| ----------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| 10 - Refactoring With Existing Tests            | Refactoring With Existing Tests            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git |
+| 10 - Refactoring With Existing Tests Code Files | Refactoring With Existing Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git |
 
 ### 6. Testing Techniques
 
