@@ -170,7 +170,7 @@ This sections covers **Learning Outcome 4.2 Behaviour Driven Development** in th
 
 It is part of the major **Learning Outcome 1 Test Driven Development**.
 
-#### Repos used to populate Test Driven Development
+#### Repos used to populate Behaviour Driven Development
 
 | Section             | Learning Module Name                    | Git Repo Address                                                                                                        |
 | ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
