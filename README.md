@@ -276,6 +276,8 @@ git subtree pull --prefix 08_SpeedOfBuilds https://gitlab.com/qa-software-engine
 
 git subtree pull --prefix 09_TestDoubles https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles.git master --squash
 
+git subtree pull --prefix 10_RefactoringWithExistingTests https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git master --squash
+
 
 
 git subtree pull --prefix 04_Testing/04_TestingPatterns https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git master --squash
