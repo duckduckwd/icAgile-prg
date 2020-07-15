@@ -1,0 +1,1 @@
+This folder contains all images that are used in the Concepts mark-down documents.
