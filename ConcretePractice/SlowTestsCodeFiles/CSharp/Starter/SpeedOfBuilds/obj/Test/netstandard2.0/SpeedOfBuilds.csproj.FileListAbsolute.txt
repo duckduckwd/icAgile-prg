@@ -1,0 +1,8 @@
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\bin\Test\netstandard2.0\SpeedOfBuilds.deps.json
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\bin\Test\netstandard2.0\SpeedOfBuilds.dll
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\bin\Test\netstandard2.0\SpeedOfBuilds.pdb
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\obj\Test\netstandard2.0\SpeedOfBuilds.csproj.CoreCompileInputs.cache
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\obj\Test\netstandard2.0\SpeedOfBuilds.AssemblyInfoInputs.cache
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\obj\Test\netstandard2.0\SpeedOfBuilds.AssemblyInfo.cs
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\obj\Test\netstandard2.0\SpeedOfBuilds.dll
+E:\Data\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\SpeedOfBuilds\Starter\SpeedOfBuilds\obj\Test\netstandard2.0\SpeedOfBuilds.pdb
