@@ -175,22 +175,26 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 | Section             | Learning Module Name                    | Git Repo Address                                                                                                        |
 | ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 12 - BDD            | Behaviour Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git |
-| 12 - TDD Code Files | Behaviour Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git              |
+| 12 - BDD Code Files | Behaviour Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git              |
+
+## TODO - 13 ATTD
+
+### 14. Code Smells
+
+#### Where Code Smells fits in
+
+This sections covers **Learning Outcome 2.1 Code Smells** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 2 Refactoring**.
+
+#### Repos used to populate Code Smells
+
+| Section                     | Learning Module Name   | Git Repo Address                                                                                                   |
+| --------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
+| 12 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
 
 ## TODO
-
-### 6. Testing Techniques
-
-| Section                           | Learning Module Name         | Git Repo Address                                                                                                        |
-| --------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 01 - Test Driven Development      | Test Driven Development      | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git      |
-| 02 - Behaviour Driven Development | Behaviour Driven Development | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git |
-
-### 7. Code Smells
-
-| Section          | Learning Module Name | Git Repo Address                                                                                        |
-| ---------------- | -------------------- | ------------------------------------------------------------------------------------------------------- |
-| 01 - Code Smells | Code Smells          | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git |
 
 ### 8. Coding Standards and Practices
 
