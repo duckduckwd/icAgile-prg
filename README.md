@@ -21,6 +21,13 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 |                      | Git in 5 Minutes        | https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-in-5-minutes.git    |
 | CodeFiles Repo       | N/A                     | https://gitlab.com/qa-software-engineering/courses/public/icagile/qaicpprg_code_files.git               |
 
+#### Existing Cloud Academy Materials to support Version Control
+
+- [Introduction to Continuous Integration - Version Control](https://app.qa.com/course/introduction-to-continuous-integration/version-control/)
+- [DevOps Playbook Part 1 - Book 5 - Version Control](https://app.qa.com/course/devops-playbook-part1/devops-adoption-playbook-part-1-book-5-version-control/?context_resource=lp&context_id=221)
+
+---
+
 ### 2. Pair Programming
 
 #### Where Pair Programming fits in
@@ -35,6 +42,12 @@ It is part of the major **Learning Outcome 6 Collaborative Development**.
 | ---------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | 02 - Pair Programming              | Pair Programming            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git                          |
 | 02 - Pair Programming Coding Files | Pair Programming Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming-concrete-practice-code-files |
+
+#### Existing Cloud Academy Materials to support Pair Programming
+
+- No current materials on Cloud Academy
+
+---
 
 ### 3. Build Tools
 
@@ -51,6 +64,12 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 | 03 - Build Tools              | Build Tools            | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools            |
 | 03 - Build Tools Coding Files | Build Tools Code Files | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools-code-files |
 
+#### Existing Cloud Academy Materials to support Build Tools
+
+- TODO
+
+---
+
 ### 4. Unit Testing
 
 #### Where Unit Testing fits in
@@ -65,6 +84,12 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | --------------------------- | ----------------------- | ------------------------------------------------------------------------------------------- |
 | 04 - Unit Testing           | Unit Testing            | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
 | 04 - Unit Tesing Code Files | Unit Testing Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
+
+#### Existing Cloud Academy Materials to support Unit Testing
+
+- No current materials on Cloud Academy
+
+---
 
 ### 5. Readable Tests
 
@@ -81,6 +106,12 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | 05 - Readable Tests            | Readable Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
 | 05 - Readable Tests Code Files | Readable Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
 
+#### Existing Cloud Academy Materials to support Readable Tests
+
+- No current materials on Cloud Academy
+
+---
+
 ### 6. Code Coverage
 
 #### Where Code Coverage fits in
@@ -96,11 +127,23 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | 06 - Code Coverage            | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git        |
 | 06 - Code Coverage Code Files | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files |
 
+#### Existing Cloud Academy Materials to support Code Coverage
+
+- No current materials on Cloud Academy
+
+---
+
 ### 7. Test Patterns - TODO
 
 | Section               | Learning Module Name | Git Repo Address                                                                         |
 | --------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
 | 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
+
+#### Existing Cloud Academy Materials to support Readable Test Patterns
+
+- Todo
+
+---
 
 ### 8. Speed of Builds (Slow Tests)
 
@@ -116,6 +159,12 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | ------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- |
 | 08 - Speed of Builds            | Slow Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests            |
 | 08 - Speed of Builds Code Files | Slow Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests-code-files |
+
+#### Existing Cloud Academy Materials to support Speed of Builds (Slow Tests)
+
+- Todo
+
+---
 
 ### 9. Test Doubles
 
@@ -146,6 +195,12 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 | ----------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 10 - Refactoring With Existing Tests            | Refactoring With Existing Tests            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git            |
 | 10 - Refactoring With Existing Tests Code Files | Refactoring With Existing Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git |
+
+#### Existing Cloud Academy Materials to support Refactoring With Existing Tests
+
+- [Refactoring a Monolithic .Net Application to use Cloud Services](https://app.qa.com/learning-paths/dotnet-monolithic-to-microservices-migration-284/)
+
+---
 
 ### 11. Test Driven Development
 
@@ -192,94 +247,25 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 | Section                     | Learning Module Name   | Git Repo Address                                                                                                   |
 | --------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
-| 12 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
+| 14 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
 
 ### 15. Continuous Integration
 
-## TODO
+#### Where Continuous Integration fits in
 
-### 8. Coding Standards and Practices
+This sections covers **Learning Outcome 7.2 Continuous Integration** in the *icAgile Programming* specification.
 
-| Section                            | Learning Module Name          | Git Repo Address                                                                                                           |
-| ---------------------------------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 01 - Coding Standards and Practice | Coding Standards and Practice | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/coding-standards-and-practices.git |
+It is part of the major **Learning Outcome 7 The Build Process**.
 
-### 9. Continuous Integration
+#### Repos used to populate Continuous Integration
 
-| Section                                     | Learning Module Name                   | Git Repo Address                                                                                                |
-| ------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 01 - Introduction to Continuous Integration | Introduction to Continuous Integration | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git |
-| 02 - Jenkins                                | Jenkins                                | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins                                    |
+| Section                                       | Learning Module Name                   | Git Repo Address                                                                                                |
+| --------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 15.1 - Introduction to Continuous Integration | Introduction to Continuous Integration | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git |
+| 15.22 - Jenkins                               | Jenkins                                | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git                                |
+| 15.22 - Jenkins Code Files                    | Jenkins  Code Files                    | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins-code-files.git                     |
 
-### 10. Continuous Delivery and Continuous Deployment
-
-| Section                                            | Learning Module Name                          | Git Repo Address                                                                                                   |
-| -------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 01 - Continuous Delivery and Continuous Deployment | Continuous Delivery and Continuous Deployment | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/continuous-delivery-continuous-deployment.git |
-
----
-
-## Existing Cloud Academy Materials that complement courses
-
-### 1. Version Control
-
-- [Introduction to Continuous Integration - Version Control](https://app.qa.com/course/introduction-to-continuous-integration/version-control/)
-- [DevOps Playbook Part 1 - Book 5 - Version Control](https://app.qa.com/course/devops-playbook-part1/devops-adoption-playbook-part-1-book-5-version-control/?context_resource=lp&context_id=221)
-
-### 2. Pair Programming
-
-No current materials on Cloud Academy
-
-### 3. Software Patterns
-
-No current materials on Cloud Academy
-
-### 4. Testing
-
-- [Software Testing 1: Introduction | SDTL3 A4.1 | - Apprenticeship L3](https://app.qa.com/resource/software-testing-1-introduction-sdtl3-a41-1698/?context_resource=lp&context_id=885)
-
-#### 4.1 Unit Testing
-
-No current materials on Cloud Academy
-
-#### 4.2 Readable Tests
-
-No current materials on Cloud Academy
-
-#### 4.3 Code Coverage
-
-No current materials on Cloud Academy
-
-#### 4.4 Readable Tests
-
-No current materials on Cloud Academy
-
-#### 4.5 Test Doubles
-
-No current materials on Cloud Academy
-
-### 5. Refactoring With Existing Tests
-
-No relevant materials on Cloud Academy - some .NET refactoring but perhaps too indepth for this course:
-[Refactoring a Monolithic .Net Application to use Cloud Services](https://app.qa.com/learning-paths/dotnet-monolithic-to-microservices-migration-284/)
-
-### 6. Testing Techniques
-
-#### 6.1 Test Driven Development
-
-No current materials on Cloud Academy
-
-#### 6.2 Behaviour Driven Development
-
-No current materials on Cloud Academy
-
-### 7. Code Smells
-
-No current materials on Cloud Academy
-
-### 8. Coding Standards and Practices
-
-### 9. Continuous Integration
+#### Existing Cloud Academy Materials to support Continuous Integration
 
 - [Introduction to Continuous Integration](https://app.qa.com/course/introduction-to-continuous-integration/intro-1/)
 - [Introduction to Jenkins](https://app.qa.com/course/introduction-to-continuous-integration/introduction-to-jenkins/)
@@ -287,12 +273,17 @@ No current materials on Cloud Academy
 - [Jenkins CICD - Advanced](https://app.qa.com/course/jenkins-cicd-advanced/jenkins-infrastructure)
 - [DEVOPS ADOPTION PLAYBOOK - PART 1 - Book 6 - Continuous Integration](https://app.qa.com/course/devops-playbook-part1/devops-adoption-playbook-part-1-book-6-continuous-integration/?context_resource=lp&context_id=221)
 
-### 10. Continuous Delivery and Continuous Deployment
+---
 
-- [Introduction to Continuous Delivery](https://app.qa.com/course/introduction-to-continuous-delivery)
-- [DevOps Playbook - CI/CD Tools and Services](https://app.qa.com/learning-paths/devops-adoption-playbook-221/)
-- [DEVOPS ADOPTION PLAYBOOK - PART 2 - Book 10 - Continuous Delivery](https://app.qa.com/course/devops-playbook-part2/devops-adoption-playbook-part-2-book-10-continuous-delivery/)
-- [DEVOPS ADOPTION PLAYBOOK - PART 2 - Book 11 - Continuous Deployment](https://app.qa.com/course/devops-playbook-part2/devops-adoption-playbook-part-2-book-11-continuous-deployment/)
+## TODO
+
+---
+
+## Existing Cloud Academy Materials that complement courses
+
+### 4. Testing
+
+- [Software Testing 1: Introduction | SDTL3 A4.1 | - Apprenticeship L3](https://app.qa.com/resource/software-testing-1-introduction-sdtl3-a41-1698/?context_resource=lp&context_id=885)
 
 ---
 
@@ -316,7 +307,7 @@ git subtree pull --prefix 05__ReadableTests https://gitlab.com/qa-software-engin
 
 git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
 
-
+07
 
 git subtree pull --prefix 08_SpeedOfBuilds https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests.git master --squash
 
@@ -324,30 +315,16 @@ git subtree pull --prefix 09_TestDoubles https://gitlab.com/qa-software-engineer
 
 git subtree pull --prefix 10_RefactoringWithExistingTests https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git master --squash
 
-
-
-git subtree pull --prefix 04_Testing/04_TestingPatterns https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git master --squash
-
-git subtree pull --prefix 04_Testing/05_TestDoubles https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles.git master --squash
-
-git subtree pull --prefix 05_RefactoringWithExistingTests https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git master --squash
-
-git subtree pull --prefix 06_TestingTechniques/01_TestDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git master --squash
-
-git subtree pull --prefix 06_TestingTechniques/02_BehaviourDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git master --squash
-
-git subtree pull --prefix 07_CodeSmells/ https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git master --squash
-
-git subtree pull --prefix 08_CodingStandardsAndPractices/ https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/coding-standards-and-practices.git master --squash
-
-git subtree pull --prefix 09_ContinuousIntegration/01_IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
-
-git subtree pull --prefix 09_ContinuousIntegration/02_Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
-
-git subtree pull --prefix 10_ContinuousDeliveryAndDeployment/ https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/continuous-delivery-continuous-deployment.git master --squash
-
 git subtree pull --prefix 11_TestDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git master --squash
 
 git subtree pull --prefix 12_BehaviourDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git master --squash
+
+13
+
+git subtree pull --prefix 14_CodeSmells https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git master --squash
+
+git subtree pull --prefix 15_ContinuousIntegration/IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
+
+git subtree pull --prefix 15_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
 
 ```
