@@ -194,6 +194,8 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 | 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
 | 12 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
 
+### 15. Continuous Integration
+
 ## TODO
 
 ### 8. Coding Standards and Practices
