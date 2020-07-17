@@ -14,12 +14,12 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 
 #### Repos used to populate Version Control
 
-| Section              | Learning Module Name    | Git Repo Address                                                                                        |
-| -------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------- |
-| 01 - Version Control | What is Version Control | https://gitlab.com/qa-software-engineering/learning-modules/version-control/what-is-version-control.git |
-|                      | Git as a DVCS           | https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git       |
-|                      | Git in 5 Minutes        | https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-in-5-minutes.git    |
-| CodeFiles Repo       | N/A                     | https://gitlab.com/qa-software-engineering/courses/public/icagile/qaicpprg_code_files.git               |
+| Section              | Learning Module Name    | Git Repo Address                                                                                          |
+| -------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| 01 - Version Control | What is Version Control | [https://gitlab.com/qa-software-engineering/learning-modules/version-control/what-is-version-control.git] |
+|                      | Git as a DVCS           | [https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-as-a-dvcs.git]       |
+|                      | Git in 5 Minutes        | [https://gitlab.com/qa-software-engineering/learning-modules/version-control/git/git-in-5-minutes.git]    |
+| CodeFiles Repo       | N/A                     | [https://gitlab.com/qa-software-engineering/courses/public/icagile/qaicpprg_code_files.git]               |
 
 #### Existing Cloud Academy Materials to support Version Control
 
@@ -38,10 +38,10 @@ It is part of the major **Learning Outcome 6 Collaborative Development**.
 
 #### Repos used to populate Pair Programming
 
-| Section                            | Learning Module Name        | Git Repo Address                                                                                                                      |
-| ---------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 02 - Pair Programming              | Pair Programming            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git                          |
-| 02 - Pair Programming Coding Files | Pair Programming Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming-concrete-practice-code-files |
+| Section                            | Learning Module Name        | Git Repo Address                                                                                                                        |
+| ---------------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 02 - Pair Programming              | Pair Programming            | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming.git]                          |
+| 02 - Pair Programming Coding Files | Pair Programming Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/pair-programming-concrete-practice-code-files] |
 
 #### Existing Cloud Academy Materials to support Pair Programming
 
@@ -59,10 +59,10 @@ It is part of the major **Learning Outcome 7 The Build Process** and of **7.1 Bu
 
 #### Repos used to populate Build Tools
 
-| Section                       | Learning Module Name   | Git Repo Address                                                                            |
-| ----------------------------- | ---------------------- | ------------------------------------------------------------------------------------------- |
-| 03 - Build Tools              | Build Tools            | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools            |
-| 03 - Build Tools Coding Files | Build Tools Code Files | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools-code-files |
+| Section                       | Learning Module Name   | Git Repo Address                                                                              |
+| ----------------------------- | ---------------------- | --------------------------------------------------------------------------------------------- |
+| 03 - Build Tools              | Build Tools            | [https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools]            |
+| 03 - Build Tools Coding Files | Build Tools Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/build-tools-code-files] |
 
 #### Existing Cloud Academy Materials to support Build Tools
 
@@ -80,10 +80,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Unit Testing
 
-| Section                     | Learning Module Name    | Git Repo Address                                                                            |
-| --------------------------- | ----------------------- | ------------------------------------------------------------------------------------------- |
-| 04 - Unit Testing           | Unit Testing            | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git        |
-| 04 - Unit Tesing Code Files | Unit Testing Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files |
+| Section                     | Learning Module Name    | Git Repo Address                                                                              |
+| --------------------------- | ----------------------- | --------------------------------------------------------------------------------------------- |
+| 04 - Unit Testing           | Unit Testing            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git]        |
+| 04 - Unit Tesing Code Files | Unit Testing Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing-code-files] |
 
 #### Existing Cloud Academy Materials to support Unit Testing
 
@@ -101,10 +101,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Readable Tests
 
-| Section                        | Learning Module Name      | Git Repo Address                                                                              |
-| ------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------- |
-| 05 - Readable Tests            | Readable Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git        |
-| 05 - Readable Tests Code Files | Readable Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files |
+| Section                        | Learning Module Name      | Git Repo Address                                                                                |
+| ------------------------------ | ------------------------- | ----------------------------------------------------------------------------------------------- |
+| 05 - Readable Tests            | Readable Tests            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git]        |
+| 05 - Readable Tests Code Files | Readable Tests Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests-code-files] |
 
 #### Existing Cloud Academy Materials to support Readable Tests
 
@@ -122,10 +122,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Code Coverage
 
-| Section                       | Learning Module Name | Git Repo Address                                                                             |
-| ----------------------------- | -------------------- | -------------------------------------------------------------------------------------------- |
-| 06 - Code Coverage            | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git        |
-| 06 - Code Coverage Code Files | Code Coverage        | https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files |
+| Section                       | Learning Module Name | Git Repo Address                                                                               |
+| ----------------------------- | -------------------- | ---------------------------------------------------------------------------------------------- |
+| 06 - Code Coverage            | Code Coverage        | [https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git]        |
+| 06 - Code Coverage Code Files | Code Coverage        | [https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage-code-files] |
 
 #### Existing Cloud Academy Materials to support Code Coverage
 
@@ -135,9 +135,9 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 ### 7. Test Patterns - TODO
 
-| Section               | Learning Module Name | Git Repo Address                                                                         |
-| --------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
-| 04 - Testing Patterns | Testing Patterns     | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git |
+| Section               | Learning Module Name | Git Repo Address                                                                           |
+| --------------------- | -------------------- | ------------------------------------------------------------------------------------------ |
+| 04 - Testing Patterns | Testing Patterns     | [https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-patterns.git] |
 
 #### Existing Cloud Academy Materials to support Readable Test Patterns
 
@@ -155,10 +155,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Speed of Builds
 
-| Section                         | Learning Module Name  | Git Repo Address                                                                          |
-| ------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- |
-| 08 - Speed of Builds            | Slow Tests            | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests            |
-| 08 - Speed of Builds Code Files | Slow Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests-code-files |
+| Section                         | Learning Module Name  | Git Repo Address                                                                            |
+| ------------------------------- | --------------------- | ------------------------------------------------------------------------------------------- |
+| 08 - Speed of Builds            | Slow Tests            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests]            |
+| 08 - Speed of Builds Code Files | Slow Tests Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests-code-files] |
 
 #### Existing Cloud Academy Materials to support Speed of Builds (Slow Tests)
 
@@ -176,10 +176,10 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 
 #### Repos used to populate Test Doubles
 
-| Section                      | Learning Module Name    | Git Repo Address                                                                                |
-| ---------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------- |
-| 09 - Test Doubles            | Test Doubles            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git         |
-| 09 - Test Doubles Code Files | Test Doubles Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles-code-files.git |
+| Section                      | Learning Module Name    | Git Repo Address                                                                                  |
+| ---------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------- |
+| 09 - Test Doubles            | Test Doubles            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git]         |
+| 09 - Test Doubles Code Files | Test Doubles Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles-code-files.git] |
 
 #### Existing Cloud Academy Materials to support Test Doubles
 
@@ -197,10 +197,10 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 
 #### Repos used to populate Refactoring With Existing Tests
 
-| Section                                         | Learning Module Name                       | Git Repo Address                                                                                                                       |
-| ----------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 10 - Refactoring With Existing Tests            | Refactoring With Existing Tests            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git            |
-| 10 - Refactoring With Existing Tests Code Files | Refactoring With Existing Tests Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git |
+| Section                                         | Learning Module Name                       | Git Repo Address                                                                                                                         |
+| ----------------------------------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 10 - Refactoring With Existing Tests            | Refactoring With Existing Tests            | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests.git]            |
+| 10 - Refactoring With Existing Tests Code Files | Refactoring With Existing Tests Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/refactoring-with-existing-tests-code-files.git] |
 
 #### Existing Cloud Academy Materials to support Refactoring With Existing Tests
 
@@ -218,10 +218,10 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 
 #### Repos used to populate Test Driven Development
 
-| Section             | Learning Module Name               | Git Repo Address                                                                                                   |
-| ------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 11 - TDD            | Test Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git |
-| 11 - TDD Code Files | Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git         |
+| Section             | Learning Module Name               | Git Repo Address                                                                                                     |
+| ------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 11 - TDD            | Test Driven Development            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git] |
+| 11 - TDD Code Files | Test Driven Development Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git]         |
 
 #### Existing Cloud Academy Materials to support Test Driven Development
 
@@ -239,10 +239,10 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 
 #### Repos used to populate Behaviour Driven Development
 
-| Section             | Learning Module Name                    | Git Repo Address                                                                                                        |
-| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| 12 - BDD            | Behaviour Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git |
-| 12 - BDD Code Files | Behaviour Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/behaviour-driven-development-code-files.git         |
+| Section             | Learning Module Name                    | Git Repo Address                                                                                                          |
+| ------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 12 - BDD            | Behaviour Driven Development            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git] |
+| 12 - BDD Code Files | Behaviour Driven Development Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/behaviour-driven-development-code-files.git]         |
 
 #### Existing Cloud Academy Materials to support Behaviour Driven Development
 
@@ -260,10 +260,10 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 
 #### Repos used to populate Acceptance Test Driven Development
 
-| Section              | Learning Module Name                          | Git Repo Address                                                                                                              |
-| -------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 13 - ATDD            | Acceptance Test Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git |
-| 13 - ATDD Code Files | Acceptance Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/acceptance-test-driven-development-code-files.git         |
+| Section              | Learning Module Name                          | Git Repo Address                                                                                                                |
+| -------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 13 - ATDD            | Acceptance Test Driven Development            | [https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git] |
+| 13 - ATDD Code Files | Acceptance Test Driven Development Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/testing/acceptance-test-driven-development-code-files.git]         |
 
 #### Existing Cloud Academy Materials to support Acceptance Test Driven Development
 
@@ -281,10 +281,10 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 
 #### Repos used to populate Code Smells
 
-| Section                     | Learning Module Name   | Git Repo Address                                                                                                   |
-| --------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
-| 14 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
+| Section                     | Learning Module Name   | Git Repo Address                                                                                                     |
+| --------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 14 - Code Smells            | Code Smells            | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git]            |
+| 14 - Code Smells Code Files | Code Smells Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git] |
 
 #### Existing Cloud Academy Materials to support Code Smells
 
@@ -292,11 +292,28 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 
 ---
 
-## TODO - 15 Living Documentation
+### 15 Dealing with Legacy Code
+
+#### Where Dealing with Legacy Code fits in
+
+This sections covers **Learning Outcome 2.3 Dealing with Legacy Code** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 2 Refactoring**.
+
+#### Repos used to populate Dealing with Legacy Code
+
+| Section                                  | Learning Module Name                | Git Repo Address                                                                                                                  |
+| ---------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 15 - Dealing with Legacy Code            | Dealing with Legacy Code            | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/dealing-with-legacy-code.git]            |
+| 15 - Dealing with Legacy Code Code Files | Dealing with Legacy Code Code Files | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/dealing-with-legacy-code-code-files.git] |
+
+#### Existing Cloud Academy Materials to support Dealing with Legacy Code
+
+- Todo
 
 ---
 
-## TODO - 16 Dealing with Legacy Code
+## TODO - 16 Living Documentation
 
 ---
 
@@ -310,11 +327,11 @@ It is part of the major **Learning Outcome 7 The Build Process**.
 
 #### Repos used to populate Continuous Integration
 
-| Section                                       | Learning Module Name                   | Git Repo Address                                                                                                |
-| --------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 17.1 - Introduction to Continuous Integration | Introduction to Continuous Integration | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git |
-| 17.2 - Jenkins                                | Jenkins                                | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git                                |
-| 16.2 - Jenkins Code Files                     | Jenkins  Code Files                    | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins-code-files.git                     |
+| Section                                       | Learning Module Name                   | Git Repo Address                                                                                                  |
+| --------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 17.1 - Introduction to Continuous Integration | Introduction to Continuous Integration | [https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git] |
+| 17.2 - Jenkins                                | Jenkins                                | [https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git]                                |
+| 16.2 - Jenkins Code Files                     | Jenkins  Code Files                    | [https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins-code-files.git]                     |
 
 #### Existing Cloud Academy Materials to support Continuous Integration
 
@@ -336,9 +353,9 @@ It is part of the major **Learning Outcome 6 Collaborative Development**.
 
 #### Repos used to populate Collective Responsibility
 
-| Section                        | Learning Module Name      | Git Repo Address                                                                                                      |
-| ------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 18 - Collective Responsibility | Collective Responsibility | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/collective-responsibility.git |
+| Section                        | Learning Module Name      | Git Repo Address                                                                                                        |
+| ------------------------------ | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 18 - Collective Responsibility | Collective Responsibility | [https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/collective-responsibility.git] |
 
 #### Existing Cloud Academy Materials to support Collective Responsibility
 
@@ -374,7 +391,7 @@ git subtree pull --prefix 05__ReadableTests https://gitlab.com/qa-software-engin
 
 git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
 
-07 - Testing Patterns
+# 07 - Testing Patterns
 
 git subtree pull --prefix 08_SpeedOfBuilds https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests.git master --squash
 
@@ -390,9 +407,9 @@ git subtree pull --prefix 13_AcceptanceTestDrivenDevelopment https://gitlab.com/
 
 git subtree pull --prefix 14_CodeSmells https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git master --squash
 
-15 - Dealing With Legacy Code
+git subtree pull --prefix 15_DealingWithLegacyCode https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/dealing-with-legacy-code.git master --squash
 
-16 - Living Documentation
+# 16 - Living Documentation
 
 git subtree pull --prefix 17_ContinuousIntegration/IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
 
