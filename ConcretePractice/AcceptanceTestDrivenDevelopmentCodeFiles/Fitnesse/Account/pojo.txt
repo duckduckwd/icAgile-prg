@@ -1,0 +1,19 @@
+//SUT
+public class Account {
+	private double closingBalance;
+
+	public double closingBalance() {
+		return closingBalance;
+	}
+
+	
+	public void setOpeningBalance(double balance) {
+		this.closingBalance = balance;
+	} 
+	
+	public double withdraw(double withdrawAmount) {
+		this.closingBalance -= withdrawAmount;
+		return this.closingBalance;
+	}
+	
+}
