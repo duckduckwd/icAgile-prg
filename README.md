@@ -307,7 +307,7 @@ git subtree pull --prefix 05__ReadableTests https://gitlab.com/qa-software-engin
 
 git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
 
-07
+07 - Testing Patterns
 
 git subtree pull --prefix 08_SpeedOfBuilds https://gitlab.com/qa-software-engineering/learning-modules/testing/slow-tests.git master --squash
 
@@ -319,12 +319,16 @@ git subtree pull --prefix 11_TestDrivenDevelopment https://gitlab.com/qa-softwar
 
 git subtree pull --prefix 12_BehaviourDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git master --squash
 
-13
+13 ATDD
 
 git subtree pull --prefix 14_CodeSmells https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git master --squash
 
-git subtree pull --prefix 15_ContinuousIntegration/IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
+15 - Dealing With Legacy Code
 
-git subtree pull --prefix 15_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
+git subtree pull --prefix 16_ContinuousIntegration/IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
+
+git subtree pull --prefix 16_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
+
+17 - Collective Responsibility
 
 ```
