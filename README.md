@@ -249,7 +249,11 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 | 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
 | 14 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
 
-### 15. Continuous Integration
+## TODO - 15 Living Documentation
+
+## TODO - 16 Dealing with Legacy Code
+
+### 17. Continuous Integration
 
 #### Where Continuous Integration fits in
 
@@ -261,9 +265,9 @@ It is part of the major **Learning Outcome 7 The Build Process**.
 
 | Section                                       | Learning Module Name                   | Git Repo Address                                                                                                |
 | --------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 15.1 - Introduction to Continuous Integration | Introduction to Continuous Integration | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git |
-| 15.22 - Jenkins                               | Jenkins                                | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git                                |
-| 15.22 - Jenkins Code Files                    | Jenkins  Code Files                    | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins-code-files.git                     |
+| 17.1 - Introduction to Continuous Integration | Introduction to Continuous Integration | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git |
+| 17.2 - Jenkins                                | Jenkins                                | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git                                |
+| 16.2 - Jenkins Code Files                     | Jenkins  Code Files                    | https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins-code-files.git                     |
 
 #### Existing Cloud Academy Materials to support Continuous Integration
 
@@ -325,10 +329,12 @@ git subtree pull --prefix 14_CodeSmells https://gitlab.com/qa-software-engineeri
 
 15 - Dealing With Legacy Code
 
-git subtree pull --prefix 16_ContinuousIntegration/IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
+16 - Living Documentation
 
-git subtree pull --prefix 16_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
+git subtree pull --prefix 17_ContinuousIntegration/IntroductionToContinuousIntegration https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/introduction-to-continuous-integration.git master --squash
 
-17 - Collective Responsibility
+git subtree pull --prefix 17_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
+
+18 - Collective Responsibility
 
 ```
