@@ -265,7 +265,7 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 | 13 - ATDD            | Acceptance Test Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git |
 | 13 - ATDD Code Files | Acceptance Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/acceptance-test-driven-development-code-files.git         |
 
-#### Existing Cloud Academy Materials to supportAcceptance Test Driven Development
+#### Existing Cloud Academy Materials to support Acceptance Test Driven Development
 
 - No current materials on Cloud Academy
 
@@ -286,7 +286,7 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 | 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
 | 14 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
 
-#### Existing Cloud Academy Materials to supportAcceptance Code Smells
+#### Existing Cloud Academy Materials to support Code Smells
 
 - No current materials on Cloud Academy
 
@@ -326,11 +326,27 @@ It is part of the major **Learning Outcome 7 The Build Process**.
 
 ---
 
-## TODO - 18. Collective Responsibility
+### 18. Collective Responsibility
+
+#### Where Collective Responsibility fits in
+
+This sections covers **Learning Outcome 6.1 Collective Responsibility** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 6 Collaborative Development**.
+
+#### Repos used to populate Collective Responsibility
+
+| Section                        | Learning Module Name      | Git Repo Address                                                                                                      |
+| ------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 18 - Collective Responsibility | Collective Responsibility | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/collective-responsibility.git |
+
+#### Existing Cloud Academy Materials to support Collective Responsibility
+
+- No current materials on Cloud Academy
 
 ---
 
-## Existing Cloud Academy Materials that complement courses
+## Additional Existing Cloud Academy Materials that complement courses
 
 ### 4. Testing
 
@@ -382,6 +398,7 @@ git subtree pull --prefix 17_ContinuousIntegration/IntroductionToContinuousInteg
 
 git subtree pull --prefix 17_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
 
-18 - Collective Responsibility
+git subtree pull --prefix 18_CollectiveResponsibility https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/collective-responsibility.git
+master --squash
 
 ```
