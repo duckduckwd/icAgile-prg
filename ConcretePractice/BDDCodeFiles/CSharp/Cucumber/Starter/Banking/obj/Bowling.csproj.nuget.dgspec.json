@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/Bowling.csproj": {}
+  },
+  "projects": {
+    "/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/Bowling.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/Bowling.csproj",
+        "projectName": "Bowling",
+        "projectPath": "/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/Bowling.csproj",
+        "packagesPath": "/Users/christopherfarrell1/.nuget/packages/",
+        "outputPath": "/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/christopherfarrell1/NuGet.Config",
+          "/Users/christopherfarrell1/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/dotnet-core/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

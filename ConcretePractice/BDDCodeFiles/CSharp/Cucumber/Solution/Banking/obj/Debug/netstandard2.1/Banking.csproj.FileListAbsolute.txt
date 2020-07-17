@@ -1,0 +1,33 @@
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/bin/Debug/netstandard2.1/Banking.deps.json
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/bin/Debug/netstandard2.1/Banking.dll
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/bin/Debug/netstandard2.1/Banking.pdb
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/obj/Debug/netstandard2.1/Banking.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/obj/Debug/netstandard2.1/Banking.AssemblyInfo.cs
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/obj/Debug/netstandard2.1/Banking.dll
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/obj/Debug/netstandard2.1/Banking.pdb
+/Users/christopherfarrell1/Downloads/SpecFlow-Examples-master/NETCore Examples/BowlingKata-SpecFlowJson-MsTest/Bowling/obj/Debug/netstandard2.1/Banking.csprojAssemblyReference.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\bin\Debug\netstandard2.1\Banking.deps.json
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\bin\Debug\netstandard2.1\Banking.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\bin\Debug\netstandard2.1\Banking.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\obj\Debug\netstandard2.1\Banking.AssemblyInfoInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\obj\Debug\netstandard2.1\Banking.AssemblyInfo.cs
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\obj\Debug\netstandard2.1\Banking.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\obj\Debug\netstandard2.1\Banking.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Bowling\obj\Debug\netstandard2.1\Banking.csproj.CoreCompileInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\bin\Debug\netstandard2.1\Banking.deps.json
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\bin\Debug\netstandard2.1\Banking.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\bin\Debug\netstandard2.1\Banking.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\obj\Debug\netstandard2.1\Banking.csprojAssemblyReference.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\obj\Debug\netstandard2.1\Banking.csproj.CoreCompileInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\obj\Debug\netstandard2.1\Banking.AssemblyInfoInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\obj\Debug\netstandard2.1\Banking.AssemblyInfo.cs
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\obj\Debug\netstandard2.1\Banking.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Starter\Banking\obj\Debug\netstandard2.1\Banking.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\bin\Debug\netstandard2.1\Banking.deps.json
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\bin\Debug\netstandard2.1\Banking.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\bin\Debug\netstandard2.1\Banking.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\obj\Debug\netstandard2.1\Banking.csproj.CoreCompileInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\obj\Debug\netstandard2.1\Banking.AssemblyInfoInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\obj\Debug\netstandard2.1\Banking.AssemblyInfo.cs
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\obj\Debug\netstandard2.1\Banking.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\Cucumber\Solution\Banking\obj\Debug\netstandard2.1\Banking.pdb
