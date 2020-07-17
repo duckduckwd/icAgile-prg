@@ -181,6 +181,12 @@ It is part of the major **Learning Outcome 1 Automated Tests**.
 | 09 - Test Doubles            | Test Doubles            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-doubles.git         |
 | 09 - Test Doubles Code Files | Test Doubles Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-doubles-code-files.git |
 
+#### Existing Cloud Academy Materials to support Test Doubles
+
+- Todo
+
+---
+
 ### 10. Refactoring With Existing Tests
 
 #### Where Refactoring With Existing Tests fits in
@@ -217,6 +223,12 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 | 11 - TDD            | Test Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/test-driven-development.git |
 | 11 - TDD Code Files | Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git         |
 
+#### Existing Cloud Academy Materials to support Test Driven Development
+
+- No current materials on Cloud Academy
+
+---
+
 ### 12. Behaviour Driven Development
 
 #### Where Behaviour Driven Development fits in
@@ -230,9 +242,34 @@ It is part of the major **Learning Outcome 1 Test Driven Development**.
 | Section             | Learning Module Name                    | Git Repo Address                                                                                                        |
 | ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 12 - BDD            | Behaviour Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git |
-| 12 - BDD Code Files | Behaviour Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/test-driven-development-code-files.git              |
+| 12 - BDD Code Files | Behaviour Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/behaviour-driven-development-code-files.git         |
 
-## TODO - 13 ATTD
+#### Existing Cloud Academy Materials to support Behaviour Driven Development
+
+- No current materials on Cloud Academy
+
+---
+
+### 13. Acceptance Test Driven Development
+
+#### Where Acceptance Test Driven Development fits in
+
+This sections covers **Learning Outcome 4.1 Acceptance Test Driven Development** in the *icAgile Programming* specification.
+
+It is part of the major **Learning Outcome 1 Test Driven Development**.
+
+#### Repos used to populate Acceptance Test Driven Development
+
+| Section              | Learning Module Name                          | Git Repo Address                                                                                                              |
+| -------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 13 - ATDD            | Acceptance Test Driven Development            | https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git |
+| 13 - ATDD Code Files | Acceptance Test Driven Development Code Files | https://gitlab.com/qa-software-engineering/learning-modules/testing/acceptance-test-driven-development-code-files.git         |
+
+#### Existing Cloud Academy Materials to supportAcceptance Test Driven Development
+
+- No current materials on Cloud Academy
+
+---
 
 ### 14. Code Smells
 
@@ -249,9 +286,19 @@ It is part of the major **Learning Outcome 2 Refactoring**.
 | 14 - Code Smells            | Code Smells            | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git            |
 | 14 - Code Smells Code Files | Code Smells Code Files | https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells-code-files.git |
 
+#### Existing Cloud Academy Materials to supportAcceptance Code Smells
+
+- No current materials on Cloud Academy
+
+---
+
 ## TODO - 15 Living Documentation
 
+---
+
 ## TODO - 16 Dealing with Legacy Code
+
+---
 
 ### 17. Continuous Integration
 
@@ -279,7 +326,7 @@ It is part of the major **Learning Outcome 7 The Build Process**.
 
 ---
 
-## TODO
+## TODO - 18. Collective Responsibility
 
 ---
 
@@ -323,7 +370,7 @@ git subtree pull --prefix 11_TestDrivenDevelopment https://gitlab.com/qa-softwar
 
 git subtree pull --prefix 12_BehaviourDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git master --squash
 
-13 ATDD
+git subtree pull --prefix 13_AcceptanceTestDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git master --squash
 
 git subtree pull --prefix 14_CodeSmells https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git master --squash
 
