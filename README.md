@@ -398,7 +398,6 @@ git subtree pull --prefix 17_ContinuousIntegration/IntroductionToContinuousInteg
 
 git subtree pull --prefix 17_ContinuousIntegration/Jenkins https://gitlab.com/qa-software-engineering/learning-modules/ci-cd-cd/jenkins.git master --squash
 
-git subtree pull --prefix 18_CollectiveResponsibility https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/collective-responsibility.git
-master --squash
+git subtree pull --prefix 18_CollectiveResponsibility https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/collective-responsibility.git master --squash
 
 ```
