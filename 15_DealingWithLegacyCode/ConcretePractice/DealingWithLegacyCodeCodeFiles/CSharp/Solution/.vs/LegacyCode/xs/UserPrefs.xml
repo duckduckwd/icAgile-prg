@@ -1,0 +1,38 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LegacyCode/Account.cs">
+    <Files>
+      <File FileName="LegacyCode/Account.cs" Line="23" Column="2" />
+      <File FileName="LegacyCode/Account.cs" Line="23" Column="2" />
+      <File FileName="LegacyCode/Account.cs" Line="23" Column="2" />
+      <File FileName="LegacyCode/Account.cs" Line="23" Column="2" />
+      <File FileName="LegacyCode/Account.cs" Line="23" Column="2" />
+      <File FileName="LegacyCode/Account.cs" Line="23" Column="2" />
+      <File FileName="LegacyCode/CurrentAccount.cs" Line="24" Column="1" />
+      <File FileName="LegacyCode/SavingsAccount.cs" Line="11" Column="10" />
+      <File FileName="LegacyCode/Payee.cs" Line="4" Column="9" />
+      <File FileName="LegacyCode/PaymentProcessor.cs" Line="13" Column="45" />
+      <File FileName="LegacyCode/IProcessPayment.cs" Line="6" Column="35" />
+      <File FileName="LegacyCode/StandingOrderProcessor.cs" Line="8" Column="1" />
+      <File FileName="LegacyCode/DirectDebitProcessor.cs" Line="9" Column="13" />
+      <File FileName="LegacyCode/Payee.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LegacyCode" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="LegacyCode" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
