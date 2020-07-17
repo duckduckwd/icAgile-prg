@@ -1,0 +1,33 @@
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/bin/Debug/netstandard2.0/CalculatorLib.deps.json
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/bin/Debug/netstandard2.0/CalculatorLib.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/bin/Debug/netstandard2.0/CalculatorLib.pdb
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/obj/Debug/netstandard2.0/CalculatorLib.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfo.cs
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/obj/Debug/netstandard2.0/CalculatorLib.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/UnitTesting/Calculator/obj/Debug/netstandard2.0/CalculatorLib.pdb
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/bin/Debug/netstandard2.0/CalculatorLib.deps.json
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/bin/Debug/netstandard2.0/CalculatorLib.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/bin/Debug/netstandard2.0/CalculatorLib.pdb
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/obj/Debug/netstandard2.0/CalculatorLib.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfo.cs
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/obj/Debug/netstandard2.0/CalculatorLib.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/Unit Testing/Solution/Calculator/obj/Debug/netstandard2.0/CalculatorLib.pdb
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/obj/Debug/netstandard2.0/CalculatorLib.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/obj/Debug/netstandard2.0/CalculatorLib.AssemblyInfo.cs
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/obj/Debug/netstandard2.0/CalculatorLib.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/obj/Debug/netstandard2.0/CalculatorLib.pdb
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/bin/Debug/netstandard2.0/CalculatorLib.deps.json
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/bin/Debug/netstandard2.0/CalculatorLib.dll
+/Users/christopherfarrell1/Dropbox/QA/Courses/QAICPPRG/agile-programming/csharp/TDD/Starter/Calculator/bin/Debug/netstandard2.0/CalculatorLib.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\bin\Debug\netstandard2.0\CalculatorLib.deps.json
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\bin\Debug\netstandard2.0\CalculatorLib.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\bin\Debug\netstandard2.0\CalculatorLib.pdb
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\obj\Debug\netstandard2.0\CalculatorLib.csprojAssemblyReference.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\obj\Debug\netstandard2.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\obj\Debug\netstandard2.0\CalculatorLib.AssemblyInfo.cs
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\obj\Debug\netstandard2.0\CalculatorLib.dll
+D:\Users\chris\MyDropbox\Dropbox\QA\Courses\QAICPPRG\agile-programming\csharp\TDD\Starter\Calculator\obj\Debug\netstandard2.0\CalculatorLib.pdb
