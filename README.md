@@ -387,7 +387,7 @@ git subtree pull --prefix 03_BuildTools https://gitlab.com/qa-software-engineeri
 
 git subtree pull --prefix 04_UnitTesting https://gitlab.com/qa-software-engineering/learning-modules/testing/unit-testing.git master --squash
 
-git subtree pull --prefix 05__ReadableTests https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git master --squash
+git subtree pull --prefix 05_ReadableTests https://gitlab.com/qa-software-engineering/learning-modules/testing/readable-tests.git master --squash
 
 git subtree pull --prefix 06_CodeCoverage https://gitlab.com/qa-software-engineering/learning-modules/testing/code-coverage.git master --squash
 
