@@ -2,11 +2,9 @@
 
 Work in pairs.
 
-Change your workspace to SpeedOfBuilds using File-> Switch Workspace in Eclipse
+Import the SpeedOfBuilds folder from your CodeFiles repo into Eclipse.
 
-For this exercise you will be working on the SpeedOfBuilds project located in the Speed of builds folder.
-
-## Task 1
+## Task 1
 
 Identify fast and slow running tests then separate these tests into two test case classes like below
 
