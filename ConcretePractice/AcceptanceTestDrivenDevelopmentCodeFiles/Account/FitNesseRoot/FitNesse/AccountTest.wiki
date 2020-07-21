@@ -1,0 +1,9 @@
+!contents -R2 -g -p -f -h
+
+!define TEST_SYSTEM {slim}
+!path /Applications/XAMPP/xamppfiles/htdocs/WebAndMobileDevGitLabs/ICAgile/QAICPPRG-ICAgile Agile Programming/CodePRG/java/Fitnesse/Account
+!|AccountFixture| 
+|openingBalance|amountToWithdraw|closingBalance?|
+|100            |20    |80.0             |
+|100            |110   |-10.0            |
+|100			|100   |0.0			 |
