@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "po1MNRukJzVzjFyJ8xps0+WPkt79nxw12DuwoEQAh6pQ3u12r+/WFe3doZ9Bua9P0h1wmSJsVPe+49puCyIUiA==",
+  "success": true,
+  "projectFilePath": "E:\\Data\\Dropbox\\QA\\Courses\\QAICPPRG\\agile-programming\\csharp\\SpeedOfBuilds\\Starter\\SpeedOfBuilds\\SpeedOfBuilds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chris Farrell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
