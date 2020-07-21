@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20180127</FitNesseVersion>
+  <rootPath>FitNesse.AccountTest</rootPath>
+    <result>
+    <counts>
+      <right>2</right>
+      <wrong>1</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <date>2020-07-16T17:52:52+01:00</date>
+    <runTimeInMillis>88</runTimeInMillis>
+    <content>&lt;br/&gt;&lt;div class="contents"&gt;
+	&lt;b&gt;Contents:&lt;/b&gt;
+	&lt;ul class="toc1"/&gt;&lt;ul class="toc1"/&gt;
+&lt;/div&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;span class="meta"&gt;variable defined: TEST_SYSTEM=slim&lt;/span&gt;
+&lt;br/&gt;&lt;span class="meta"&gt;classpath: /Applications/XAMPP/xamppfiles/htdocs/WebAndMobileDevGitLabs/ICAgile/QAICPPRG-ICAgile Agile Programming/CodePRG/java/Fitnesse/Account&lt;/span&gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td colspan="3"&gt;&lt;span class="pass"&gt;AccountFixture&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;openingBalance&lt;/td&gt;
+		&lt;td&gt;amountToWithdraw&lt;/td&gt;
+		&lt;td&gt;closingBalance?&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;100&lt;/td&gt;
+		&lt;td&gt;20&lt;/td&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;80.0&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;100&lt;/td&gt;
+		&lt;td&gt;110&lt;/td&gt;
+		&lt;td&gt;&lt;span class="pass"&gt;-10.0&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;100&lt;/td&gt;
+		&lt;td&gt;100&lt;/td&gt;
+		&lt;td&gt;[0.0] &lt;span class="fail"&gt;expected [&lt;/span&gt;&lt;span class="diff"&gt;1&lt;/span&gt;&lt;span class="fail"&gt;0&lt;/span&gt;&lt;span class="diff"&gt;0&lt;/span&gt;&lt;span class="fail"&gt;.0]&lt;/span&gt;&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+</content>
+    <relativePageName>AccountTest</relativePageName>
+            <instructions>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_0', instruction='make', instanceName='decisionTable_0', className='AccountFixture', args=[]}</instruction>
+        <slimResult>pass(AccountFixture)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>decisionTable_0_0</instructionId>
+                    <col>0</col>
+                              <row>0</row>
+                    <type>ConstructionExpectation</type>
+                                        <evaluationMessage>AccountFixture</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_4', instruction='call', instanceName='decisionTable_0', methodName='setOpeningBalance', args=[100]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>decisionTable_0_4</instructionId>
+                    <col>0</col>
+                              <row>2</row>
+                    <type>VoidReturnExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_5', instruction='call', instanceName='decisionTable_0', methodName='setAmountToWithdraw', args=[20]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>decisionTable_0_5</instructionId>
+                    <col>1</col>
+                              <row>2</row>
+                    <type>VoidReturnExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_7', instruction='call', instanceName='decisionTable_0', methodName='closingBalance', args=[]}</instruction>
+        <slimResult>pass(80.0)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>decisionTable_0_7</instructionId>
+                    <col>2</col>
+                              <row>2</row>
+                    <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>80.0</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_9', instruction='call', instanceName='decisionTable_0', methodName='setOpeningBalance', args=[100]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>decisionTable_0_9</instructionId>
+                    <col>0</col>
+                              <row>3</row>
+                    <type>VoidReturnExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_10', instruction='call', instanceName='decisionTable_0', methodName='setAmountToWithdraw', args=[110]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>decisionTable_0_10</instructionId>
+                    <col>1</col>
+                              <row>3</row>
+                    <type>VoidReturnExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_12', instruction='call', instanceName='decisionTable_0', methodName='closingBalance', args=[]}</instruction>
+        <slimResult>pass(-10.0)</slimResult>
+                <expectation>
+                    <status>pass</status>
+                    <instructionId>decisionTable_0_12</instructionId>
+                    <col>2</col>
+                              <row>3</row>
+                    <type>ReturnedValueExpectation</type>
+                                        <evaluationMessage>-10.0</evaluationMessage>
+                  </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_14', instruction='call', instanceName='decisionTable_0', methodName='setOpeningBalance', args=[100]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>decisionTable_0_14</instructionId>
+                    <col>0</col>
+                              <row>4</row>
+                    <type>VoidReturnExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_15', instruction='call', instanceName='decisionTable_0', methodName='setAmountToWithdraw', args=[100]}</instruction>
+        <slimResult></slimResult>
+                <expectation>
+                    <instructionId>decisionTable_0_15</instructionId>
+                    <col>1</col>
+                              <row>4</row>
+                    <type>VoidReturnExpectation</type>
+                                      </expectation>
+              </instructionResult>
+            <instructionResult>
+        <instruction>{id='decisionTable_0_17', instruction='call', instanceName='decisionTable_0', methodName='closingBalance', args=[]}</instruction>
+        <slimResult>fail(a=0.0;e=100.0)</slimResult>
+                <expectation>
+                    <status>fail</status>
+                    <instructionId>decisionTable_0_17</instructionId>
+                    <col>2</col>
+                              <row>4</row>
+                    <type>ReturnedValueExpectation</type>
+                    <actual>0.0</actual>
+                              <expected>100.0</expected>
+                            </expectation>
+              </instructionResult>
+          </instructions>
+      </result>
+  <executionLog>
+    <testSystem>slim:fitnesse.slim.SlimService</testSystem>
+    <command>java -cp /Applications/XAMPP/xamppfiles/htdocs/WebAndMobileDevGitLabs/ICAgile/QAICPPRG-ICAgile Agile Programming/CodePRG/java/Fitnesse/Account/fitnesse-standalone.jar:/Applications/XAMPP/xamppfiles/htdocs/WebAndMobileDevGitLabs/ICAgile/QAICPPRG-ICAgile Agile Programming/CodePRG/java/Fitnesse/Account:lib/*.jar fitnesse.slim.SlimService 1</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>1</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>361</totalRunTimeInMillis>
+</testResults>
+
