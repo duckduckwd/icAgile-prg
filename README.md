@@ -403,7 +403,7 @@ git subtree pull --prefix 11_TestDrivenDevelopment https://gitlab.com/qa-softwar
 
 git subtree pull --prefix 12_BehaviourDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/behaviour-driven-development.git master --squash
 
-git subtree pull --prefix 13_AcceptanceTestDrivenDevelopment https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git master --squash
+git subtree pull --prefix 13_ATDD https://gitlab.com/qa-software-engineering/learning-modules/testing/testing-techniques/acceptance-test-driven-development.git master --squash
 
 git subtree pull --prefix 14_CodeSmells https://gitlab.com/qa-software-engineering/learning-modules/agile-development-practices/code-smells.git master --squash
 
