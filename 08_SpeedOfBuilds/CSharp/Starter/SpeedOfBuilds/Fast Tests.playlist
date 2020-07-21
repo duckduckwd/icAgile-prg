@@ -1,3 +1,0 @@
-<Playlist Version="1.0">
-  <Add Test="TestSpeedOfBuilds.CustomerTest.testFindBiggestOrder" />
-</Playlist>
