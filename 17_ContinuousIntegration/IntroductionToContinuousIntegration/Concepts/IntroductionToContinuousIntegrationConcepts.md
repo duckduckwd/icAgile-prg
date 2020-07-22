@@ -19,7 +19,7 @@ As Martin Fowler put it in his article [Continuous Integration](http://martinfow
 
 ## Why use Continuous Integration
 
-### 1. Frequent Automated Testing
+### 1. Frequent Automated Testing
 
 - Code bases that integrate new features are [and should be] tested every time they are built
   - CI tools facilitate and run tests on each integration reporting failures
