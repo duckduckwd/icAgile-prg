@@ -1,6 +1,6 @@
 # Test Doubles (Java)
 
-## Objectives
+## Objectives
 
 The objective of this lab is to see the different ways of manually implementing dependency injection and using EasyMock.
 
